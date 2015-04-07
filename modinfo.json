@@ -1,0 +1,16 @@
+{
+    "author": "dom314",
+    "build": "79600",
+    "context": "client",
+    "date": "2015/04/07",
+    "description": "Rainbows everywhere. Actually just on the landing.",
+    "display_name": "Rainbow: Commander Landing",
+    "icon" : "http://i.imgur.com/VS28RfL.gif",
+    "forum": "",
+    "identifier": "com.pa.domdom.rainbow.landing",
+    "version": "1.0.0",
+    "category": ["in-game", "effects"],
+    "priority": 100,
+    "enabled": true
+}
+	
