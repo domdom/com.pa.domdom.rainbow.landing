@@ -6,7 +6,7 @@
     "description": "Rainbows everywhere. Actually just on the landing.",
     "display_name": "Rainbow: Commander Landing",
     "icon" : "http://i.imgur.com/VS28RfL.gif",
-    "forum": "",
+    "forum": "https://forums.uberent.com/threads/rel-client-rainbow-commander-landing.68501/",
     "identifier": "com.pa.domdom.rainbow.landing",
     "version": "1.0.0",
     "category": ["in-game", "effects"],
